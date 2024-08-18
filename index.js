@@ -1,4 +1,4 @@
-import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.0/firebase-app.js";
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.0/firebase-app.js"
 import { getDatabase,
          ref,
          push,
@@ -6,7 +6,7 @@ import { getDatabase,
          remove } from "https://www.gstatic.com/firebasejs/10.13.0/firebase-app.js"
 
 const firebaseConfig = {
-    databaseURL: "https://leadstrackerapp-f8057-default-rtdb.firebaseio.com",
+    databaseURL: "https://leadstrackerapp-f8057-default-rtdb.firebaseio.com"
   };
 
 const app = initializeApp(firebaseConfig)
