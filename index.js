@@ -7,7 +7,7 @@ import { getDatabase,
 
 const firebaseConfig = {
     databaseURL: "https://leadstrackerapp-f8057-default-rtdb.firebaseio.com"
-  };
+  }
 
 const app = initializeApp(firebaseConfig)
 const database = getDatabase(app)
