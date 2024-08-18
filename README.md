@@ -1,4 +1,4 @@
-# Leads Tracking Application
+# Leads Tracking Application 💻
 
 Welcome to my Leads Tracking Web application
 
@@ -13,3 +13,6 @@ There is also a delete all button functionality that allows a user to remove the
 (4) Start adding your leads!!! :D
 
 Happy Coding!
+
+## Visit the live website!
+https://leadstrackerappsand.netlify.app/
