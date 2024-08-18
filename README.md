@@ -1,19 +1,15 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Leads Tracking Application
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Welcome to my Leads Tracking Web application
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+The purpose of this application is to allow a user to save URLS which are considered leads into a Firebase database.
+There is also a delete all button functionality that allows a user to remove their potential leads and start over!
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## How to run this application
+
+(1) Save the folder to your local desktop
+(2) View the folder on Visual Studio Code
+(3) Right Click Index HTML and open a live server
+(4) Start adding your leads!!! :D
 
 Happy Coding!
