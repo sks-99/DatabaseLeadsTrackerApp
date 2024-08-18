@@ -6,15 +6,9 @@ import { getDatabase,
          remove } from "https://www.gstatic.com/firebasejs/10.13.0/firebase-app.js"
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDC3s_Jy_tN1PIoraX9J93Ve6YTJriFZUs",
-    authDomain: "leadstrackerapp-f8057.firebaseapp.com",
     databaseURL: "https://leadstrackerapp-f8057-default-rtdb.firebaseio.com",
-    projectId: "leadstrackerapp-f8057",
-    storageBucket: "leadstrackerapp-f8057.appspot.com",
-    messagingSenderId: "1002848264504",
-    appId: "1:1002848264504:web:13d94211ddafca2fa061cd"
   };
-  
+
 const app = initializeApp(firebaseConfig)
 const database = getDatabase(app)
 const referenceInDB = ref(database, "leads")
