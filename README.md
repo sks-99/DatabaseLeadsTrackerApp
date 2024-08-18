@@ -3,7 +3,7 @@
 Welcome to my Leads Tracking Web application
 
 The purpose of this application is to allow a user to save URLS which are considered leads into a Firebase database.
-There is also a delete all button functionality that allows a user to remove their potential leads and start over!
+Users are able to input leads in a text box then save leads & delete all leads through a button functionality.
 
 ## How to run this application
 
